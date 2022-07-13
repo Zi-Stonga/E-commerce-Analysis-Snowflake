@@ -29,17 +29,17 @@ Snowflake is a great data tool as it allows organisations to handle incredibly l
 ## Creating Visualizations
 Snowflake allows users to create basic visualizations of their data. While you can configure snowflake to work with Tableau, I find it useful to be able to create visualization right on the platform. Below are some visualization I created of the ecommerce data right on the snowflake platform.
 
-![alt text](https://github.com/Zi-stonga/Snowflake/images/sales, region, ship mode.JPG)
-![alt text](https://github.com/Zi-stonga/Snowflake/images/Sales, region.JPG)
-![alt text](https://github.com/Zi-stonga/Snowflake/images/Sales, shipmode.JPG)
-![alt text](https://github.com/Zi-stonga/Snowflake/images/Ship mode, Segment.JPG)
-![alt text](https://github.com/Zi-stonga/Snowflake/images/Shipmode, Sales, region.JPG)
-![alt text](https://github.com/Zi-stonga/Snowflake/images/Shipmode, sales.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/Images/sales,region,shipmode.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/Images/Sales,region.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/Images/Sales,shipmode.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/Images/Shipmode,Segment.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/Images/Shipmode,Sales,region.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/Images/Shipmode,sales.JPG)
 
 ## Creating a dashboard
 Working with snowflake and analyzing this small dataset was a great way to experience some of Snowflake's capabilities. I put together a dashboard of some of the graphs I produced from the data to get a visual representations.
 
-![alt text](https://github.com/Zi-stonga/Snowflake/images/dashboard2.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/Images/dashboard2.JPG)
 
 ## Sentiments
 I found snowflake to be a great data tool. It's user friendly and you can accomplish a great deal on just the platform alone without much configuration and intergraton.

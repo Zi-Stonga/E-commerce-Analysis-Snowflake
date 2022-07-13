@@ -19,27 +19,27 @@ In this project I used python-connector loacally to connect to snowflake. I then
 ## Using python connector and connecting to snowflake
 I accomplished this locally by running the following scripts on python IDLE shell:
 
-![alt text](https://github.com/Zi-Stonga/Snowflake/main/images/python_script.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/images/python_script.JPG)
 
 ## Snowflake
 Snowflake is a great data tool as it allows organisations to handle incredibly large datasets in the cloud, making data engineering, collaboration and data analysis easy to accomplish. I created a database, created a schema, and created a table to populate with my ecommerce data. Below is a preview of the data.
 
-![alt text](https://github.com/Zi-Stonga/Snowflake/main/images/Data_preview.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/images/Data_preview.JPG)
 
 ## Creating Visualizations
 Snowflake allows users to create basic visualizations of their data. While you can configure snowflake to work with Tableau, I find it useful to be able to create visualization right on the platform. Below are some visualization I created of the ecommerce data right on the snowflake platform.
 
-![alt text](https://github.com/Zi-Stonga/Snowflake/main/Images/sales,region,shipmode.JPG)
-![alt text](https://github.com/Zi-Stonga/Snowflake/main/Images/Sales,region.JPG)
-![alt text](https://github.com/Zi-Stonga/Snowflake/main/Images/Sales,shipmode.JPG)
-![alt text](https://github.com/Zi-Stonga/Snowflake/main/Images/Shipmode,Segment.JPG)
-![alt text](https://github.com/Zi-Stonga/Snowflake/main/Images/Shipmode,Sales,region.JPG)
-![alt text](https://github.com/Zi-Stonga/Snowflake/main/Images/Shipmode,sales.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/Images/sales,region,shipmode.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/Images/Sales,region.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/Images/Sales,shipmode.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/Images/Shipmode,Segment.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/Images/Shipmode,Sales,region.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/Images/Shipmode,sales.JPG)
 
 ## Creating a dashboard
 Working with snowflake and analyzing this small dataset was a great way to experience some of Snowflake's capabilities. I put together a dashboard of some of the graphs I produced from the data to get a visual representations.
 
-![alt text](https://github.com/Zi-Stonga/Snowflake/Images/dashboard2.JPG)
+![alt text](https://github.com/Zi-Stonga/Snowflake/blob/Images/dashboard2.JPG)
 
 ## Sentiments
 I found snowflake to be a great data tool. It's user friendly and you can accomplish a great deal on just the platform alone without much configuration and intergraton.

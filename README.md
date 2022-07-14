@@ -62,7 +62,7 @@ Working with snowflake and analyzing this data was a great way to experience som
 ![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/Images/dashboard2.JPG)
 
 ## Sentiments
-I found snowflake to be a great data platform. It's user intuitive and you can accomplish a great deal on just the platform alone without much configuration or intergraton.
+I found snowflake to be a great megadata platform. It's user intuitive and you can accomplish a great deal on just the platform alone without much configuration or integration.
 
 
 

@@ -1,5 +1,5 @@
 # Analyzing Shipping orders for an ecommerce store
-### Using Snowflake and python-connector
+### Snowflake
 
 Snowflake delivers the Data Cloud — a global network where thousands of organizations mobilize data with near-unlimited scale, concurrency, and performance. Inside the Data Cloud, organizations unite their siloed data, easily discover and securely share governed data, and execute diverse analytic workloads. Snowflake’s platform allows for data warehousing, data lakes, data engineering, data science, data application development, and data sharing. 
 
@@ -16,13 +16,13 @@ In this project I used python-connector loacally to connect to snowflake. I then
 9. Create a dashboard
 
 
-## Using python connector and connecting to snowflake
+## Using python-connector and connecting to snowflake
 I accomplished this locally by running the following scripts on python IDLE shell:
 
 ![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/Images/python_script.JPG)
 
 
-###Phython Script
+### Phython Script
 
 ## Snowflake
 Snowflake is a great data platform as it allows organizations to handle megadata in the cloud, making data engineering, collaboration and data analysis easy to accomplish. I created a database, created a schema, and created a table to populate with my ecommerce data. Below is a preview of the data:
@@ -31,7 +31,7 @@ Snowflake is a great data platform as it allows organizations to handle megadata
 
 ![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/Images/Data_preview.JPG)
 
-###Data Preview
+### Data Preview
 
 ## Creating Visualizations
 Snowflake allows users to create basic visualizations of their data. While you can configure snowflake to work with Tableau, I find it useful to be able to create visualization right on the platform. Below are some visualization I created of the ecommerce data using the snowflake platform.
@@ -39,12 +39,6 @@ Snowflake allows users to create basic visualizations of their data. While you c
 ![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/Images/Sales,region.JPG)
 
 ### Sales per Region
-
-
-![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/Images/sales,region,shipmode.JPG)
-
-### Sales per Region, with shipping mode
-
 
 ![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/Images/Sales,shipmode.JPG)
 

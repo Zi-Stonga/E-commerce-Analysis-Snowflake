@@ -1,4 +1,4 @@
-# Analyzing Shipping orders for an ecommerce store
+# Analyzing Shipping orders for an e-commerce store
 ### Snowflake
 
 Snowflake delivers the Data Cloud — a global network where thousands of organizations mobilize data with near-unlimited scale, concurrency, and performance. Inside the Data Cloud, organizations unite their siloed data, easily discover and securely share governed data, and execute diverse analytic workloads. Snowflake’s platform allows for data warehousing, data lakes, data engineering, data science, data application development, and data sharing. 

@@ -62,7 +62,8 @@ Working with snowflake and analyzing this data was a great way to experience som
 ![alt text](https://github.com/Zi-Stonga/Snowflake/blob/main/Images/dashboard2.JPG)
 
 ## Sentiments
-I found snowflake to be a great megadata platform. It's user intuitive and you can accomplish a great deal on just the platform alone without much configuration or integration.
+
+Snowflake has endless features. It has fail-safes, the ability to cache results, you can schedule SQL statements using Tasks, the platform also allows you to capture as well as change data capture using streams. Continuous data pipelines are great in automating data loading to Snowflake. You're also able to share data between accounts. These are just some of the features the platform offers. You're able to accomplish so many tasks on the single platform, making Snowflake great in building data steams and analytics.
 
 
 
